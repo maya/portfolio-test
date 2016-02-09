@@ -18,9 +18,9 @@ permalink: /about/resume
 
 2014 Wood and Paint, LA Artcore, Los Angeles,  CA
 
-2008 Recent Work, LA Artcore, Los Angeles, CA 2005
+2008 Recent Work, LA Artcore, Los Angeles, CA 
 
-Recent Work, LA Artcore, Los Angeles, CA
+2005 Recent Work, LA Artcore, Los Angeles, CA
 
 2002 Non Objective, LA Artcore, Los Angeles, CA
 
@@ -28,24 +28,27 @@ Recent Work, LA Artcore, Los Angeles, CA
 
 1997 Tandem Solo, The Art Bank, Los Angeles, CA
 
-1996 Tandem Solo, The Art Bank, Los Angeles, CA 1993 Drawing, Insomnia 
-Café, Sherman Oaks, CA
+1996 Tandem Solo, The Art Bank, Los Angeles, CA 
 
-1983 Recent Drawing, Fullerton Center Gallery, California State       University, Fullerton,CA
+1993 Drawing, Insomnia Café, Sherman Oaks, CA
+
+1983 Recent Drawing, Fullerton Center Gallery, California State University, Fullerton, CA
 
 ### Selected Exhibitions:
+
+2015 Process/Result, Grand Rapids, MI
 
 2015 We Insist, Biennale International d’art non objectif, De la Ville de Pont de Claix, France
 
 2015 Process/Result, 337 Project Space, Grand Rapids, MI
 
-2014 Yoella Razili and Scott Gordon Collaboration, LA Artcore, Los         Angeles, CA
+2014 Yoella Razili and Scott Gordon Collaboration, LA Artcore, Los Angeles, CA
 
 2013 Art 70, Back to the roots, Kfar Blum, Israel
 
 2010 Latitude 34-40, Art1307, Villa Di Donato, Naples, Italy
 
-2010 Memory and Transformation, Hebrew Union College, Los     Angeles, CA
+2010 Memory and Transformation, Hebrew Union College, Los Angeles, CA
 
 2008 Buscando Nicaragua Art Exhibition, Westlake Village, CA
 
@@ -128,6 +131,8 @@ Otis-Parsons Scholarship Recognition from the Art Committee of Kibutzim Movement
 
 We Insist, Biennale Internationale d’art Non Objectif, Pon de Claix, France (2015)
 
+Laartcore.org Webzine (2014)
+
 Yoella Razili catalog (2014)
 
 Latitude 34-40, Art1307 Art Association, Naples, Italy (2010) 
@@ -136,9 +141,9 @@ LA Jewish Journal (2008)
 
 Angeleno Magazine (2008) 
 
-Artseen catalog, (2008) 
+Artseen catalog (2008) 
 
-Yoella Razili, catalog, LA Artcore, (2005) 
+Yoella Razili, catalog, LA Artcore (2005) 
 
 Preview Artweek (2005) 
 
