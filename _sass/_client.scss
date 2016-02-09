@@ -4,8 +4,10 @@
 
 $color-gray: #707070;
 
-.page-statement {
-  .text-element {
+.page-statement,
+.page-peter-frank,
+.page-artcore-webzine {
+  p {
     max-width: 400px;
   }
 }
@@ -17,7 +19,7 @@ $color-gray: #707070;
   }
 
   p {
-//    margin-bottom: 10px;
+    margin-bottom: 10px;
   }
 }
 
@@ -26,5 +28,9 @@ $color-gray: #707070;
     font-size: 14px;
     font-weight: bold;
     margin-top: 10px;
+  }
+
+  p {
+    margin-bottom: 7px;
   }
 }
